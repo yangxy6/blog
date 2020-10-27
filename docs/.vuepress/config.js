@@ -7,6 +7,7 @@ module.exports = {
       href: '/mango.png'
     }]
   ],
+  base:'/blog/',
   port: 4000,
   evergreen: true,
   themeConfig: {
